@@ -17,3 +17,6 @@ Contribute
 
 - Issue Tracker: github.com/Stebbbi/Canvas-Module/issues
 - Source Code: github.com/Stebbbi/Canvas-Module
+
+[Documentation](https://github.com/Stebbbi/Canvas-Module/wiki/Documentation)
+-------------

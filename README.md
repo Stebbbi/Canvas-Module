@@ -3,12 +3,6 @@ Canvas Module
 
 Canvas Module makes working with HTML5 canvas easier
 
-Features
---------
-
-- Be awesome
-- Make things faster
-
 Installation
 ------------
 
